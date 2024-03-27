@@ -41,7 +41,7 @@ Preprints
 ======
 - **paper1**
 
-[![Video Title](/Niko.github.io/images/mstile-70x70.png)](https://www.bilibili.com/video/BV1ri421d7E5)
+[![Video Title]([/Niko.github.io/images/mstile-70x70.png](https://raw.githubusercontent.com/NikoHsu/Niko.github.io/master/images/framework.png))](https://www.bilibili.com/video/BV1ri421d7E5)
 
 - **paper2**
 
