@@ -41,7 +41,7 @@ Preprints
 ======
 - **paper1**
 
-[![Video Title](https://i1.hdslb.com/bfs/archive/2e2961728f4aec689881a1a04bf3c5277a30a0d4.jpg@336w_190h_1c_!web-video-rcmd-cover.avif)](https://www.bilibili.com/video/BV1ri421d7E5)
+[![Video Title](/Niko.github.io/images/mstile-70x70.png)](https://www.bilibili.com/video/BV1ri421d7E5)
 
 - **paper2**
 
