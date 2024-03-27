@@ -33,7 +33,7 @@ Project Experience
 
 - **project2**
 
-![demopic](../images/mstile-70x70.png)
+![demopic](/Niko.github.io/images/mstile-70x70.png)
 
 ![demo003](https://github.com/NikoHsu/Niko.github.io/blob/master/images/framework.png)
 
