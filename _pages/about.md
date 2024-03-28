@@ -30,6 +30,7 @@ Project Experience
 - Controller built using the NXP K60 MCU;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
 - Main control circuitry as well as motor drive circuitry.
+- It can adapt to various types of roads and park in garages. (See video for details)
 
 - **Reinforcement learning for unmanned aerial vehicles formation decision-making**
 
