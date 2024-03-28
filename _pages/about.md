@@ -22,20 +22,24 @@ GPA: 3.32  (Rank 5st / 132 in the major)
 
 Project Experience
 ======
-- **project1**
+- **Autonomous Driving Car**
 
-![demopic](../images/bio-photo.jpg)
+[![Video_link](/Niko.github.io/images/PJ_nxpcar.png)](https://www.bilibili.com/video/BV1jf4y1Q7Rm)
 
+- Based on multiple sensors including cameras and electromagnetic sensors;
+- Controller built using the NXP K60 MCU;
+- Embedded image and data processing algorithms, automatic line-following and control algorithms;
+- Main control circuitry as well as motor drive circuitry.
 
-  - Subitem 1
-  
-  - Subitem 2
+- **Reinforcement learning for unmanned aerial vehicles formation decision-making**
 
-- **project2**
+![demopic](/Niko.github.io/images/PJ_UAV2v2.gif)
 
-![demopic](/Niko.github.io/images/mstile-70x70.png)
+![demo003](/Niko.github.io/images/PJ_UAV2v2.PNG)
 
-![demo003](https://github.com/NikoHsu/Niko.github.io/blob/master/images/framework.png)
+- Based on the MAPPO algorithm in reinforcement learning;
+- JSBSIM flight simulator;
+- Implementing autonomous intelligent decision-making for multiple UAVs;
 
 Preprints
 ======
