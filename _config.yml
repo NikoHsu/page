@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Niko Hsu / internship & RA candidate"
+title                    : "Niko Hsu / Internship & RA candidate"
 title_separator          : "-"
 name                     : &name "Niko Hsu"
 description              : &description "personal description"
