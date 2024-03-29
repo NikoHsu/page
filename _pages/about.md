@@ -64,7 +64,7 @@ Preprints
 
 First author, IEEE Systems Journal, Under Review
 
-![mpe](/Niko.github.io/images/BLOG_observatory.png)
+![mpe](/Niko.github.io/images/PA_PE-game.png)
 
 We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
