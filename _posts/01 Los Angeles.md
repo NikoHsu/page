@@ -9,6 +9,7 @@ tags:
 ---
 
 Visit Griffith Observatory with UCLA's classmates 
+
 ![obs](/Niko.github.io/images/BLOG_observatory.png)
 
 
