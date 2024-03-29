@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Here is **zhiqiang Hsu (Niko, 许志强)**.
+Hello! Here is **Zhiqiang Hsu (Niko)**.
 
 I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
 
