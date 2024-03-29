@@ -42,7 +42,7 @@ Project Experience
 
 - **Robot navigation and event handling based on reinforcement learning**
 
-![nxpcar](/Niko.github.io/images/PJ_navigation.gif)
+![nav](/niko.github.io/images/PJ_navigation.gif)
 
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
