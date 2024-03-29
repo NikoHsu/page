@@ -22,7 +22,7 @@ GPA: 3.32  (Rank 5st / 132 in the major)
 
 Project Experience
 ======
-- **Robot navigation and event handling based on reinforcement learning**
+- **Robot indoor autonomous navigation based on reinforcement learning**
 
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
 
@@ -31,15 +31,23 @@ Project Experience
 - The simulation environment is sourced from the [igibson](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
 - Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
-- **Autonomous Driving Car**
+- **Target Tracking for Vision-based Quadcopters**
+
+![nxpcar](/Niko.github.io/images/PJ_uavtrack.gif)
+
+- Target detection and estimation of target position based on visual sensors;
+- Tracking of targets by quadcopter using adaptive control;
+- The target detection network and control algorithm are deployed on the Jetson Nano.
+
+
+- **Intelligent unmanned car**
 
 ![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
 
 - Based on multiple sensors including cameras and electromagnetic sensors;
-- Controller built using the NXP K60 MCU;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
 - Main control circuitry as well as motor drive circuitry;
-- It can adapt to various types of roads and park in garages. 
+- Controller built using the NXP K60 MCU;
 
 - **Reinforcement learning for multiple UAVs formation decision-making**
 
@@ -70,7 +78,9 @@ Skills
 ======
 Spoken language: Mandarin, English, Deutsch(A1)
 
-Programming Languages: C/C++, Matlab, Python, Latex, ROS
+Programming Languages: C/C++, Matlab, Python, Latex
+
+Tools : Linux, ROS
 
 
 Honors and Awards
