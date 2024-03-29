@@ -28,7 +28,7 @@ Project Experience
 
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
-- The simulation environment is sourced from the [igibson environment](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
+- The simulation environment is sourced from the [igibson](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
 - Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
 - **Autonomous Driving Car**
@@ -56,11 +56,13 @@ Preprints
 
 First author, IEEE Systems Journal, Under Review
 
-![mpe](/Niko.github.io/images/PA_PE-game)
+![mpe](/Niko.github.io/images/PA_PE-game.png)
+
 
 To obtain strategies that facilitate team coordination in Multi-Agent System Pursuit-Evasion(MPE) game, we employ a graph-theoretic approach to represent the relationships between agents. Based on this, we design a dynamic target graph algorithm to enhance the coordination among agents.
 
 - **paper2**
+
 ...
 
   
@@ -73,24 +75,23 @@ Programming Languages: C/C++, Matlab, Python, Latex, ROS
 
 Honors and Awards
 ======
-First Prize in the National College Students' Electronic Design Competition (2020) [Project display link](https://www.bilibili.com/video/BV1ZK4y177U2)
+- First Prize in the National College Students' Electronic Design Competition (2020) [Project display](https://www.bilibili.com/video/BV1ZK4y177U2)
 
-Third Prize in the "Shenzhen Cup" Mathematical Modeling Challenge (2020)
+- Third Prize in the "Shenzhen Cup" Mathematical Modeling Challenge (2020)
 
-Third Prize in the National College Students' Intelligent Car Competition, Southern Region (2020)
+- Third Prize in the National College Students' Intelligent Car Competition, Southern Region (2020)
 
-Provincial Gold Award and National Bronze Award in the "Internet Plus" College Student Innovation and Entrepreneurship Competition (2021)
+- Provincial Gold Award and National Bronze Award in the "Internet Plus" College Student Innovation and Entrepreneurship Competition (2021)
 
-First Prize in the National College Students' Mathematics Competition (2021)
+- First Prize in the National College Students' Mathematics Competition (2021)
 
-First Prize in the "Sanhang Cup" Science and Technology Works Competition (2023/2024)
+- First Prize in the "Sanhang Cup" Science and Technology Works Competition (2023/2024)
 
-Recipient of multiple GXU Outstanding Student Scholarships, etc. (2019/2020/2021)
+- Recipient of multiple GXU Outstanding Student Scholarships, etc. (2019/2020/2021)
 
 
 
-For more info
+Visitor Map
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
