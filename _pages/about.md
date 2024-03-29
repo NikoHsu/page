@@ -49,12 +49,12 @@ Project Experience
 - Main control circuitry as well as motor drive circuitry;
 - Controller built using the NXP K60 MCU;
 
-- **Reinforcement learning for multiple UAVs formation decision-making**
+- **Reinforcement learning for multiple UAVs formation maneuver control**
 
 ![uav](/Niko.github.io/images/PJ_UAV2v2.gif)
 
 - Based on the MAPPO algorithm in reinforcement learning;
-- JSBSIM flight simulator;
+- Dynamics based on [JSBSIM flight simulator](https://jsbsim.sourceforge.net/);
 - Implementing autonomous intelligent decision-making for multiple UAVs;
 
 
@@ -66,8 +66,7 @@ First author, IEEE Systems Journal, Under Review
 
 ![mpe](/Niko.github.io/images/PA_PE-game.png)
 
-
-To obtain strategies that facilitate team coordination in Multi-Agent System Pursuit-Evasion(MPE) game, we employ a graph-theoretic approach to represent the relationships between agents. Based on this, we design a dynamic target graph algorithm to enhance the coordination among agents.
+We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
 - **paper2**
 
