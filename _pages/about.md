@@ -22,6 +22,15 @@ GPA: 3.32  (Rank 5st / 132 in the major)
 
 Project Experience
 ======
+- **Robot navigation and event handling based on reinforcement learning**
+
+![nav](/niko.github.io/images/PJ_navigation.gif)
+
+- Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
+- Visual image input includes RGB images and depth images.;
+- The simulation environment is sourced from the [igibson environment](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
+- Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
+
 - **Autonomous Driving Car**
 
 ![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
@@ -40,14 +49,6 @@ Project Experience
 - JSBSIM flight simulator;
 - Implementing autonomous intelligent decision-making for multiple UAVs;
 
-- **Robot navigation and event handling based on reinforcement learning**
-
-![nav](/niko.github.io/images/PJ_navigation.gif)
-
-- Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
-- Visual image input includes RGB images and depth images.;
-- The simulation environment is sourced from the [igibson environment](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
-- Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
 Preprints
 ======
