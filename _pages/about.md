@@ -83,7 +83,7 @@ Programming Languages: C/C++, Matlab, Python, LaTeX
 Tools : Linux, ROS, Git
 
 
-Honors and Awards
+Honors and Awards(Selected)
 ======
 - First Prize in the National College Students' Electronic Design Competition (2020) [Project display](https://www.bilibili.com/video/BV1ZK4y177U2)
 
