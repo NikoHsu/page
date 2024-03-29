@@ -18,7 +18,7 @@ Education
 
 09/2017 ~ 06/2022: B.Sc. in Control Engineering (Automation), [GuangXi University](https://www.gxu.edu.cn/), Nanning.
 
-GPA: 3.32  (Rank 5st / 132 in the major)
+- GPA: 3.32  (Rank 5st / 132 in the major)
 
 Project Experience
 ======
