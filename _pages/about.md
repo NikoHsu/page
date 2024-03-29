@@ -24,7 +24,7 @@ Project Experience
 ======
 - **Robot navigation and event handling based on reinforcement learning**
 
-![nav](/niko.github.io/images/PJ_navigation.gif)
+![nav](/Niko.github.io/images/PJ_navigation.gif)
 
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
@@ -53,29 +53,38 @@ Project Experience
 Preprints
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
+
 First author, IEEE Systems Journal, Under Review
+
 ![mpe](/Niko.github.io/images/PA_PE-game)
 
 To obtain strategies that facilitate team coordination in Multi-Agent System Pursuit-Evasion(MPE) game, we employ a graph-theoretic approach to represent the relationships between agents. Based on this, we design a dynamic target graph algorithm to enhance the coordination among agents.
 
 - **paper2**
-
+...
 
   
 Skills
 ======
 Spoken language: Mandarin, English, Deutsch(A1)
+
 Programming Languages: C/C++, Matlab, Python, Latex, ROS
 
 
 Honors and Awards
 ======
 First Prize in the National College Students' Electronic Design Competition (2020) [Project display link](https://www.bilibili.com/video/BV1ZK4y177U2)
+
 Third Prize in the "Shenzhen Cup" Mathematical Modeling Challenge (2020)
+
 Third Prize in the National College Students' Intelligent Car Competition, Southern Region (2020)
+
 Provincial Gold Award and National Bronze Award in the "Internet Plus" College Student Innovation and Entrepreneurship Competition (2021)
+
 First Prize in the National College Students' Mathematics Competition (2021)
+
 First Prize in the "Sanhang Cup" Science and Technology Works Competition (2023/2024)
+
 Recipient of multiple GXU Outstanding Student Scholarships, etc. (2019/2020/2021)
 
 
