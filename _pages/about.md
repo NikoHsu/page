@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Hello! Here is **zhiqiang Hsu (Niko, 许志强)**.
 
-Hello! I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
+I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
 
 Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, badminton and swimming.
 
@@ -75,9 +76,9 @@ We proposes an approximate optimal control strategy for nonlinear Multi-Agent Sy
   
 Skills
 ======
-Spoken language: Mandarin, English, Deutsch(A1)
+Spoken language: English(Fluent), Mandarin(Native), Deutsch(Basic)
 
-Programming Languages: C/C++, Matlab, Python, Latex
+Programming Languages: C/C++, Matlab, Python, LaTeX
 
 Tools : Linux, ROS
 
