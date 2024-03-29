@@ -30,7 +30,7 @@ author_profile: true
 - 与中国移动杭州研究院合作研究，实习考核优秀（优秀率约30%）
 - 使用PPO算法，实现基于纯视觉输入的自主导航（具身智能）；
 - 视觉图像输入包括RGB图像和深度图像；
-- 仿真环境来源于斯坦福大学斯坦福视觉与学习实验室的[igibson](https://svl.stanford.edu/igibson/)环境；
+- 仿真环境来源于斯坦福大学斯坦福SVL Lab的[igibson](https://svl.stanford.edu/igibson/)环境；
 - 通过训练，机器人可以学习在不同类型的障碍物中选择绕过或推动障碍物以更快地到达目的地。
 
 
@@ -75,7 +75,7 @@ coming soon
 
 技能
 ======
-口语：英语（流利）、普通话（母语）、德语（基础）
+口语：英语（流利，CET4 562，CET6 514）、普通话（母语）、德语（基础，歌德A1）
 
 编程语言：C/C++、Matlab、Python、LaTeX
 
