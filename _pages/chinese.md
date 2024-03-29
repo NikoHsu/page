@@ -85,7 +85,7 @@ coming soon
 ======
 - 全国大学生电子设计竞赛一等奖（2020）
 
-[3天完成设计，简易无接触温度测量与身份识别装置，项目展示](https://www.bilibili.com/video/BV1ZK4y177U2)
+[项目展示：3天内完成，简易无接触温度测量与身份识别装置](https://www.bilibili.com/video/BV1ZK4y177U2)
 
 - “深圳杯”数学建模挑战赛三等奖（2020）
 
