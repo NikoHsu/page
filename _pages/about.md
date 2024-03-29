@@ -34,7 +34,7 @@ Project Experience
 
 - **Reinforcement learning for multiple UAVs formation decision-making**
 
-![uav](/NiAVo.github.io/images/PJ_UAV2v2.gif)
+![uav](/Niko.github.io/images/PJ_UAV2v2.gif)
 
 - Based on the MAPPO algorithm in reinforcement learning;
 - JSBSIM flight simulator;
