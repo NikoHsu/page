@@ -24,23 +24,30 @@ Project Experience
 ======
 - **Autonomous Driving Car**
 
-[![Video_link](/Niko.github.io/images/PJ_nxpcar.png)](https://www.bilibili.com/video/BV1jf4y1Q7Rm)
+![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
 
 - Based on multiple sensors including cameras and electromagnetic sensors;
 - Controller built using the NXP K60 MCU;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
-- Main control circuitry as well as motor drive circuitry.
-- It can adapt to various types of roads and park in garages. (See video for details)
+- Main control circuitry as well as motor drive circuitry;
+- It can adapt to various types of roads and park in garages. 
 
-- **Reinforcement learning for unmanned aerial vehicles formation decision-making**
+- **Reinforcement learning for multiple UAVs formation decision-making**
 
-![demopic](/Niko.github.io/images/PJ_UAV2v2.gif)
-
-![demo003](/Niko.github.io/images/PJ_UAV2v2.PNG)
+![uav](/NiAVo.github.io/images/PJ_UAV2v2.gif)
 
 - Based on the MAPPO algorithm in reinforcement learning;
 - JSBSIM flight simulator;
 - Implementing autonomous intelligent decision-making for multiple UAVs;
+
+- **Robot navigation and event handling based on reinforcement learning**
+
+![nxpcar](/Niko.github.io/images/PJ_navigation.gif)
+
+- Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
+- Visual image input includes RGB images and depth images.;
+- The simulation environment is sourced from the [igibson environment](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
+- Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
 Preprints
 ======
