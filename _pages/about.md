@@ -80,7 +80,7 @@ Spoken language: English(Fluent), Mandarin(Native), Deutsch(Basic)
 
 Programming Languages: C/C++, Matlab, Python, LaTeX
 
-Tools : Linux, ROS
+Tools : Linux, ROS, Git
 
 
 Honors and Awards
