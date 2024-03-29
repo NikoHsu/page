@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! Here is **Zhiqiang Hsu (Niko)**.
 
-I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
+I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for conducting meaningful artificial intelligence research. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
 
 Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, badminton and swimming.
 
