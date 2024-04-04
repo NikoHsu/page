@@ -23,6 +23,8 @@ author_profile: true
 
 项目经历
 ======
+note: 部分项目无法公开图片，未作展示
+
 - **基于强化学习的室内机器人自主导航**
 
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
