@@ -25,23 +25,28 @@ Project Experience
 ======
 - **Robot indoor autonomous navigation based on reinforcement learning**
 
+Addressing the challenge of insufficient ground truth data for reinforcement learning training in real-world environments, as well as the demand for end-to-end indoor home robot intelligence, we design a reinforcement learning algorithm to achieve autonomous indoor navigation for robots. Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
+
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
 
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
 - The simulation environment is sourced from the [igibson](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
-- Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
 - **Target Tracking for Vision-based Quadcopters**
 
+For the challenges of unknown next actions of the tracked target and motion blur in onboard sensor images, motion deblurring method is used as a preprocessing step for object detection. Additionally, based on Error State Kalman Filter (ESKF), fusion is performed between the current state estimate and IMU measurements to estimate the target position, achieving the tracking of given unknown targets.
+
 ![nxpcar](/Niko.github.io/images/PJ_uavtrack.gif)
 
-- Target detection and estimation of target position based on visual sensors;
-- Tracking of targets by quadcopter using adaptive control;
-- The target detection network and control algorithm are deployed on the Jetson Nano.
+- Using visual sensors for target detection and fusing estimates of target position based on ESKF;
+- Tracking of targets by quadcopter using adaptive control algorithm;
+- Image processing algorithm, target detection network and control algorithm are deployed on the Jetson Nano.
 
 
 - **Intelligent unmanned car**
+
+Based on the competition's requirement for intelligent vehicles to autonomously navigate complex terrain as quickly as possible, the entire vehicle design was completed from the perspectives of physical architecture, software, hardware, and algorithms.
 
 ![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
 
@@ -51,6 +56,8 @@ Project Experience
 - Controller built using the NXP K60 MCU;
 
 - **Reinforcement learning for multiple UAVs formation maneuver control**
+
+Addressing the challenge of dimension explosion in training and convergence difficulty caused by the high degree of aerial maneuvers in multi-agent systems, dynamic target allocation algorithms and decision tree pruning methods were designed. By reducing dimensions and sharing experiences, the training convergence speed of the model is improved, achieving multi-drone formation maneuver control.
 
 ![uav](/Niko.github.io/images/PJ_UAV2v2.gif)
 
