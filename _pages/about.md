@@ -15,9 +15,9 @@ Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, 
 
 Education
 ======
-09/2022 ~ Present: Master, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xian.
+09/2022 ~ 04/2025: M.S.  in Artificial Intelligence, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xian.
 
-09/2017 ~ 06/2022: B.Sc. in Control Engineering (Automation), [GuangXi University](https://www.gxu.edu.cn/), Nanning.
+09/2017 ~ 06/2022: B.Sc. in Automation, [GuangXi University](https://www.gxu.edu.cn/), Nanning.
 
 - GPA: 3.32  (Rank 5st / 132 in the major)
 
