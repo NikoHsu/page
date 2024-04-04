@@ -19,7 +19,7 @@ author_profile: true
 
 09/2017 至 06/2022：广西大学(211)，自动化，本科，南宁。
 
-- GPA：3.32（专业排名第5/132）。
+- GPA：3.32（专业排名第5/132）
 
 项目经历
 ======
@@ -27,7 +27,7 @@ author_profile: true
 
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
 
-- 与中国移动杭州研究院合作研究，实习考核优秀（优秀率约30%）
+- 与中国移动杭州研究院合作研究，实习考核优秀（优秀率约30%）；
 - 使用PPO算法，实现基于纯视觉输入的自主导航（具身智能）；
 - 视觉图像输入包括RGB图像和深度图像；
 - 仿真环境来源于斯坦福大学斯坦福SVL Lab的[igibson](https://svl.stanford.edu/igibson/)环境；
