@@ -12,7 +12,7 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
 
-  - title: "中文"
+  - title: "中文介绍"
     url: /chinese/
         
   - title: "Blog Posts"
