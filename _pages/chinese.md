@@ -13,7 +13,7 @@ author_profile: true
 
 在学术生活之外，我对心理学很感兴趣，并且喜欢徒步旅行、打羽毛球和游泳。
 
-<span style="color:red">[Highlight]</span> 我目前在寻找一个**研究实习/RA**的职位，如果您有任何意向或线索，请邮件联系 nikohsu@qq.com ，谢谢！
+<span style="color:red"><b>[Highlight]</b></span> 我目前在寻找一个**研究实习/RA**的职位，如果您有任何意向或线索，请邮件联系 nikohsu@qq.com ，谢谢！
 
 教育
 ======
