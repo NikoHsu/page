@@ -27,7 +27,7 @@ Project Experience
 ======
 - **Robot indoor autonomous navigation based on reinforcement learning**
 
-Addressing the challenge of insufficient ground truth data for reinforcement learning training in real-world environments, as well as the demand for end-to-end indoor home robot intelligence, we design a reinforcement learning algorithm to achieve autonomous indoor navigation for robots. Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
+Facing the demand for end-to-end indoor home robot intelligence, and addressing the challenge of insufficient ground truth data for reinforcement learning training in real-world environments,  we design a reinforcement learning algorithm to achieve autonomous indoor navigation for robots. Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
 
