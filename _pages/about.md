@@ -72,7 +72,7 @@ Preprints
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-First author, IEEE Systems Journal, Under Review
+First author, IEEE Systems Journal, under major revision
 
 ![mpe](/Niko.github.io/images/PA_PE-game.png)
 
