@@ -74,7 +74,7 @@ note: 部分项目无法公开图片，未作展示
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-第一作者，IEEE Systems Journal, Under major revision
+First author, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
 
 ![博弈](/Niko.github.io/images/PA_PE-game.png)
 
