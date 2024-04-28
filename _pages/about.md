@@ -84,7 +84,9 @@ We proposes an approximate optimal control strategy for nonlinear Multi-Agent Sy
 
 Underground parking environments pose challenges such as GNSS denied, poor lighting and complex interference, resulting in degraded and unstable sensor localization. To address these issues,  We propose a novel system, named PSEF, which is based on dual-layer map matching and fusion. We construct a point cloud map based on LiDAR odometry and a semantic map based on camera data and semantic segmentation. For the first time, we introduce the fusion of point cloud and semantic information based on ESKF.
 
-![slam](/Niko.github.io/images/slam.png)  ![slam2](/Niko.github.io/images/slam2.jpg)
+<img src="/Niko.github.io/images/slam.png" alt="slam" width="300" height="600">
+
+<img src="/Niko.github.io/images/slam2.jpg" alt="slam2" width="500" height="300">
 (a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
   
