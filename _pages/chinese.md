@@ -74,7 +74,7 @@ note: 部分项目无法公开图片，未作展示
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-Zhiqiang Xu, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
+**Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
 
 ![博弈](/Niko.github.io/images/PA_PE-game.png)
 
