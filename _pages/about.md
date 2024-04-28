@@ -81,9 +81,11 @@ We proposes an approximate optimal control strategy for nonlinear Multi-Agent Sy
 - **PSEF: Point Cloud and Semantic-Based ESKF Fusion System for Precise Underground Parking Enviroment Localization**
 
 **Zhiqiang Xu**, Kun Gong, and Yuelei Xu, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), under review
+
 Underground parking environments pose challenges such as GNSS denied, poor lighting and complex interference, resulting in degraded and unstable sensor localization. To address these issues,  We propose a novel system, named PSEF, which is based on dual-layer map matching and fusion. We construct a point cloud map based on LiDAR odometry and a semantic map based on camera data and semantic segmentation. For the first time, we introduce the fusion of point cloud and semantic information based on ESKF.
 
 ![slam](/Niko.github.io/images/slam.png)  ![slam2](/Niko.github.io/images/slam2.jpg)
+(a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
   
 Skills
