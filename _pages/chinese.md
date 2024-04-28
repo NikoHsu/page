@@ -87,7 +87,9 @@ note: 部分项目无法公开图片，未作展示
 
 地下停车环境带来了诸多挑战，如无GPS信号、照明不佳和复杂环境干扰，导致传感器定位不精确和不稳定。为了解决这些问题，我们提出了一种基于双层地图匹配和融合的PSEF系统。我们构建了基于激光雷达里程计的点云地图和基于相机数据和语义分割的语义地图，并首次引入了基于ESKF的点云和语义信息的融合，在仿真系统中实现了较高精度的定位。
 
-![slam](/Niko.github.io/images/slam.png)  ![slam2](/Niko.github.io/images/slam2.jpg)
+<img src="/Niko.github.io/images/slam.png" alt="slam" width="300" height="600">
+
+<img src="/Niko.github.io/images/slam2.jpg" alt="slam2" width="500" height="300">
 （a）当前帧的BEV图像。（b）车辆前视图。（c）双层地图融合图解。
 
 
