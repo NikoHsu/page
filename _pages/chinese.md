@@ -76,7 +76,7 @@ note: 部分项目无法公开图片，未作展示
 
 **Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
 
-![博弈](/Niko.github.io/images/PA_PE-game.png)
+<img src="/Niko.github.io/images/PA_PE-game.png" alt="博弈" width="800" height="300">
 
 针对目前多智能体系统追逃博弈过程中，单组智能体内部缺少团队凝聚力的难题，我们提出了一种用于非线性多智能体系统追逐逃避（MPE）博弈的近似最优控制策略，通过图论方法、动态目标图算法以及Hamilton-Jacobi-Isaacs (HJI) 方程的求解策略，有效增加了智能体集群的团队协作，并通过仿真和对比实验验证了算法的有效性。
 
