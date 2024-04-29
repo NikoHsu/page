@@ -74,7 +74,7 @@ Preprints
 
 **Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
 
-![mpe](/Niko.github.io/images/PA_PE-game.png)
+<img src="/Niko.github.io/images/PA_PE-game.png" alt="mpe" width="800" height="300">
 
 We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
