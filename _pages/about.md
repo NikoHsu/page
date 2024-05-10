@@ -52,6 +52,8 @@ Based on the competition's requirement for intelligent vehicles to autonomously 
 
 ![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
 
+<img src="/Niko.github.io/images/PJ_nxpcar.gif" alt="nxpcar" width="800" height="300">
+
 - Based on multiple sensors including cameras and electromagnetic sensors;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
 - Main control circuitry as well as motor drive circuitry;
