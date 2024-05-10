@@ -76,11 +76,11 @@ Preprints
 
 **Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
 
-<img src="/Niko.github.io/images/PA_PE-game.png" alt="mpe" width="800" height="300">
+<img src="/Niko.github.io/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
 We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
-- **PSEF: Point Cloud and Semantic-Based ESKF Fusion System for Precise Underground Parking Enviroment Localization**
+- **PSEF: Point Cloud and Semantic ESKF Fusion System For Precise and Robust Localization in Underground Parking Environment**
 
 **Zhiqiang Xu**, Kun Gong, and Yuelei Xu, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), Prepare submitted
 
@@ -88,7 +88,7 @@ Underground parking environments pose challenges such as GNSS denied, poor light
 
 <img src="/Niko.github.io/images/slam.png" alt="slam" width="300" height="600">
 
-<img src="/Niko.github.io/images/slam2.jpg" alt="slam2" width="500" height="300">
+<img src="/Niko.github.io/images/slam2.jpg" alt="slam2" width="333" height="200">
 
 (a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
