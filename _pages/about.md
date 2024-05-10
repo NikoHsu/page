@@ -31,6 +31,8 @@ Facing the demand for end-to-end indoor home robot intelligence, and addressing 
 
 ![nav](/Niko.github.io/images/PJ_navigation.gif)
 
+<img src="/Niko.github.io/images/PJ_navigation.gif" alt="nav" width="500" height="300">
+
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
 - The simulation environment is sourced from the [igibson](https://svl.stanford.edu/igibson/) by Stanford Vision and Learning Lab;
@@ -39,7 +41,9 @@ Facing the demand for end-to-end indoor home robot intelligence, and addressing 
 
 For the challenges of unknown next actions of the tracked target and motion blur in onboard sensor images, motion deblurring method is used as a preprocessing step for object detection. Additionally, based on Error State Kalman Filter (ESKF), fusion is performed between the current state estimate and IMU measurements to estimate the target position, achieving the tracking of given unknown targets.
 
-![nxpcar](/Niko.github.io/images/PJ_uavtrack.gif)
+![uav](/Niko.github.io/images/PJ_uavtrack.gif)
+
+<img src="/Niko.github.io/images/PJ_uavtrack.gif" alt="uav" width="500" height="300">
 
 - Using visual sensors for target detection and fusing estimates of target position based on ESKF;
 - Tracking of targets by quadcopter using adaptive control algorithm;
@@ -52,7 +56,7 @@ Based on the competition's requirement for intelligent vehicles to autonomously 
 
 ![nxpcar](/Niko.github.io/images/PJ_nxpcar.gif)
 
-<img src="/Niko.github.io/images/PJ_nxpcar.gif" alt="nxpcar" width="800" height="300">
+<img src="/Niko.github.io/images/PJ_nxpcar.gif" alt="nxpcar" width="500" height="300">
 
 - Based on multiple sensors including cameras and electromagnetic sensors;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
