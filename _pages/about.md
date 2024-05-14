@@ -48,6 +48,7 @@ Facing the demand for end-to-end indoor home robot intelligence, and addressing 
 For the challenges of unknown next actions of the tracked target and motion blur in onboard sensor images, motion deblurring method is used as a preprocessing step for object detection. Additionally, based on Error State Kalman Filter (ESKF), fusion is performed between the current state estimate and IMU measurements to estimate the target position, achieving the tracking of given unknown targets.
 
 <img src="/page/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
+
 <img src="/page/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
 
 - Using visual sensors for target detection and fusing estimates of target position based on ESKF;
