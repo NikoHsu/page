@@ -12,7 +12,7 @@ title                    : "Niko Hsu / Internship & RA candidate"
 title_separator          : "-"
 name                     : &name "Niko Hsu"
 description              : &description "personal description"
-url                      : https://nikohsu.github.io/xzq # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nikohsu.github.io/page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
