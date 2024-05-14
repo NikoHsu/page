@@ -35,9 +35,9 @@ Project Experience
 
 Facing the demand for end-to-end indoor home robot intelligence, and addressing the challenge of insufficient ground truth data for reinforcement learning training in real-world environments,  we design a reinforcement learning algorithm to achieve autonomous indoor navigation for robots. Through training, the robot can learn to decide whether to navigate around or push obstacles to reach the destination faster in the presence of different types of obstacles.
 
-<!-- ![nav](/Niko.github.io/images/PJ_navigation.gif) -->
+<!-- ![nav](/page/images/PJ_navigation.gif) -->
 
-<img src="/Niko.github.io/images/PJ_navigation.gif" alt="nav" width="400" height="240">
+<img src="/page/images/PJ_navigation.gif" alt="nav" width="400" height="240">
 
 - Using the PPO algorithm, achieving autonomous navigation based on purely visual input (**Embodied intelligence**);
 - Visual image input includes RGB images and depth images.;
