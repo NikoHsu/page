@@ -23,6 +23,12 @@ Education
 
 - GPA: 3.32  (Rank 5st / 132 in the major)
 
+
+07/2018 ~ 08/2018: Summer School, [University of California,  Los Angeles (UCLA)](https://www.ucla.edu/), Los Angeles.
+
+- Course Project: Academic Writing,  Research Paradigms,  Intercultural Communication,  etc.
+
+
 Project Experience
 ======
 - **Robot indoor autonomous navigation based on reinforcement learning**
