@@ -44,6 +44,7 @@ note: 部分项目无法公开图片，未作展示
 对于追踪目标下一步动作未知以及机载传感图像存在运动模糊等难题，基于运动模糊去卷积的图像预处理算法作为目标识别的前处理，并基于误差状态卡尔曼滤波（ESKF），根据当前状态估计和IMU测量相融合，对目标位置进行融合估计，实现给定未知目标的追踪。
 
 <img src="/Niko.github.io/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
+<img src="/Niko.github.io/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
 
 - 基于视觉传感器进行目标检测，基于ESKF对目标位置进行融合估计；
 - 利用自适应控制算法实现四旋翼飞行器对目标的跟踪；
