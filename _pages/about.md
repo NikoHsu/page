@@ -47,8 +47,8 @@ Facing the demand for end-to-end indoor home robot intelligence, and addressing 
 
 For the challenges of unknown next actions of the tracked target and motion blur in onboard sensor images, motion deblurring method is used as a preprocessing step for object detection. Additionally, based on Error State Kalman Filter (ESKF), fusion is performed between the current state estimate and IMU measurements to estimate the target position, achieving the tracking of given unknown targets.
 
-<img src="/Niko.github.io/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
-<img src="/Niko.github.io/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
+<img src="/page/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
+<img src="/page/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
 
 - Using visual sensors for target detection and fusing estimates of target position based on ESKF;
 - Tracking of targets by quadcopter using adaptive control algorithm;
@@ -59,7 +59,7 @@ For the challenges of unknown next actions of the tracked target and motion blur
 
 Based on the competition's requirement for intelligent vehicles to autonomously navigate complex terrain as quickly as possible, the entire vehicle design was completed from the perspectives of physical architecture, software, hardware, and algorithms.
 
-<img src="/Niko.github.io/images/PJ_nxpcar.gif" alt="nxpcar" width="400" height="240">
+<img src="/page/images/PJ_nxpcar.gif" alt="nxpcar" width="400" height="240">
 
 - Based on multiple sensors including cameras and electromagnetic sensors;
 - Embedded image and data processing algorithms, automatic line-following and control algorithms;
@@ -70,7 +70,7 @@ Based on the competition's requirement for intelligent vehicles to autonomously 
 
 Addressing the challenge of dimension explosion in training and convergence difficulty caused by the high degree of aerial maneuvers in multi-agent systems, dynamic target allocation algorithms and decision tree pruning methods were designed. By reducing dimensions and sharing experiences, the training convergence speed of the model is improved, achieving multi-drone formation maneuver control.
 
-<img src="/Niko.github.io/images/PJ_UAV2v2.gif" alt="uav" width="400" height="240">
+<img src="/page/images/PJ_UAV2v2.gif" alt="uav" width="400" height="240">
 
 - Based on the MAPPO algorithm in reinforcement learning;
 - Dynamics based on [JSBSIM flight simulator](https://jsbsim.sourceforge.net/);
@@ -83,7 +83,7 @@ Preprints
 
 **Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
 
-<img src="/Niko.github.io/images/PA_PE-game.png" alt="mpe" width="400" height="150">
+<img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
 We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
@@ -95,9 +95,9 @@ Underground parking environments pose challenges such as GNSS denied, poor light
 
 Open-source dataset URL: [https://github.com/NikoHsu/PSEF_Localization_dataset](https://github.com/NikoHsu/PSEF_Localization_dataset).
 
-<img src="/Niko.github.io/images/slam.png" alt="slam" width="300" height="600">
+<img src="/page/images/slam.png" alt="slam" width="300" height="600">
 
-<img src="/Niko.github.io/images/slam2.jpg" alt="slam2" width="333" height="200">
+<img src="/page/images/slam2.jpg" alt="slam2" width="333" height="200">
 
 (a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
