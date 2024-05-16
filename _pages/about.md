@@ -124,6 +124,8 @@ Honors and Awards(Selected)
 
 - First Prize in the National College Students' Mathematics Competition (2021)
 
+- Provincial Gold Award and National Bronze Award in the National Finals of the Huawei Ascend AI Innovation Competition (2023)
+
 - First Prize in the "Sanhang Cup" Science and Technology Works Competition (2023/2024)
 
 - Recipient of multiple GXU Outstanding Student Scholarships, etc. (2019/2020/2021)
