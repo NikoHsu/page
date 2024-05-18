@@ -82,7 +82,7 @@ Preprints
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-**Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
+**First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
 
 <img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
@@ -90,7 +90,7 @@ We proposes an approximate optimal control strategy for nonlinear Multi-Agent Sy
 
 - **PSEF: Point Cloud and Semantic ESKF Fusion System For Precise and Robust Localization in Underground Parking Environment**
 
-**Zhiqiang Xu**, Kun Gong, and Yuelei Xu, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), Under Review.
+**First author**, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), Under Review.
 
 Underground parking environments pose challenges such as GNSS denied, poor lighting and complex interference, resulting in degraded and unstable sensor localization. To address these issues,  We propose a novel system, named PSEF, which is based on dual-layer map matching and fusion. We construct a point cloud map based on LiDAR odometry and a semantic map based on camera data and semantic segmentation. For the first time, we introduce the fusion of point cloud and semantic information based on ESKF.
 
