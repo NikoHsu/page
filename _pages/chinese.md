@@ -15,7 +15,7 @@ author_profile: true
 
 <span style="color:red"><b>[Highlight]</b></span> 我目前在寻找一个**研究实习/RA**的职位，如果您有任何意向或线索，请邮件联系 nikohsu@qq.com ，谢谢！
 
-教育
+教育背景
 ======
 09/2022 至 04/2025：西北工业大学(985)，人工智能，硕士，西安。
 
