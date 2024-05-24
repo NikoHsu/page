@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人项目展示"
+title: "个人主页"
 author_profile: true
 redirect_from: 
   - /about/
