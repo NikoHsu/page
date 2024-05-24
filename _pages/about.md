@@ -34,7 +34,7 @@ note: 部分项目无法公开图片，未作展示
 
 面向端到端的室内家庭机器人智能需求，针对真实环境中的强化学习训练缺少真值数据的问题，设计强化学习算法实现机器人自主室内导航，通过训练，机器人可以学习在不同类型的障碍物中选择绕过或推动障碍物以更快地到达目的地。
 
-<img src="/page/images/PJ_navigation.gif" alt="nav" width="400" height="240">
+<img src="/jobpage/images/PJ_navigation.gif" alt="nav" width="400" height="240">
 
 - 与中国移动杭州研究院合作研究，实习考核优秀（优秀率约30%）；
 - 使用PPO算法，实现基于纯视觉输入的自主导航（具身智能）；
@@ -46,8 +46,8 @@ note: 部分项目无法公开图片，未作展示
 
 对于追踪目标下一步动作未知以及机载传感图像存在运动模糊等难题，基于运动模糊去卷积的图像预处理算法作为目标识别的前处理，并基于误差状态卡尔曼滤波（ESKF），根据当前状态估计和IMU测量相融合，对目标位置进行融合估计，实现给定未知目标的追踪。
 
-<img src="/page/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
-<img src="/page/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
+<img src="/jobpage/images/PJ_uavtrack.gif" alt="Tracking" width="400" height="240">
+<img src="/jobpage/images/PJ_SPtrack.gif" alt="Tracking2" width="240" height="400">
 
 - 基于视觉传感器进行目标检测，基于ESKF对目标位置进行融合估计；
 - 利用自适应控制算法实现四旋翼飞行器对目标的跟踪；
@@ -57,7 +57,7 @@ note: 部分项目无法公开图片，未作展示
 
 基于比赛对智能车以尽快的速度自主穿越复杂地形的要求，从物理架构，软件，硬件和算法层面完成整车设计。
 
-<img src="/page/images/PJ_nxpcar.gif" alt="nxpcar" width="400" height="240">
+<img src="/jobpage/images/PJ_nxpcar.gif" alt="nxpcar" width="400" height="240">
 
 - 基于包括摄像头和电磁传感器在内的多种传感器；
 - 嵌入式图像和数据处理算法，自动巡线和控制算法；
@@ -68,7 +68,7 @@ note: 部分项目无法公开图片，未作展示
 
 对于多智能体以及智能体空中动作极多导致的的动作维度爆炸，进而导致训练及收敛困难的难题，设计了动态目标分配算法，决策树剪枝等手段，通过降低维度，共享经验等手段，提高模型训练收敛速度，实现多无人机编队机动控制。
 
-<img src="/page/images/PJ_UAV2v2.gif" alt="uav" width="400" height="240">
+<img src="/jobpage/images/PJ_UAV2v2.gif" alt="uav" width="400" height="240">
 
 - 基于强化学习中的MAPPO算法；
 - 基于[JSBSIM飞行仿真器](https://jsbsim.sourceforge.net/)的动力学模型；
@@ -80,7 +80,7 @@ note: 部分项目无法公开图片，未作展示
 
 **First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
 
-<img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
+<img src="/jobpage/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
 针对目前多智能体系统追逃博弈过程中，单组智能体内部缺少团队凝聚力的难题，我们提出了一种用于非线性多智能体系统追逐逃避（MPE）博弈的近似最优控制策略，通过图论方法、动态目标图算法以及Hamilton-Jacobi-Isaacs (HJI) 方程的求解策略，有效增加了智能体集群的团队协作，并通过仿真和对比实验验证了算法的有效性。
 
@@ -93,9 +93,9 @@ note: 部分项目无法公开图片，未作展示
 
 开源数据集网址: [https://github.com/NikoHsu/PSEF_Localization_dataset](https://github.com/NikoHsu/PSEF_Localization_dataset).
 
-<img src="/page/images/slam.png" alt="slam" width="300" height="600">
+<img src="/jobpage/images/slam.png" alt="slam" width="300" height="600">
 
-<img src="/page/images/slam2.jpg" alt="slam2" width="333" height="200">
+<img src="/jobpage/images/slam2.jpg" alt="slam2" width="333" height="200">
 
 （a）当前帧的BEV图像。（b）车辆前视图。（c）双层地图融合图解。
 
