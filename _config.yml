@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Niko Hsu / Internship & RA candidate"
+title                    : "许志强 / 25届硕士应届生"
 title_separator          : "-"
-name                     : &name "Niko Hsu"
+name                     : &name "许志强"
 description              : &description "personal description"
 url                      : https://honghonghonghongka.github.io/jobpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_niko.png"
-  name             : "Niko Hsu"
+  name             : "许志强"
   pronouns         : # example: "she/her"  
-  bio              : "Internship & RA candidate"
-  location         : "Xian, China"
-  employer         : "NWPU University"
+  bio              : "25届人工智能硕士应届生"
+  location         : "现居西安"
+  employer         : "西北工业大学"
   uri              : # URL
-  email            : "Nikohsu3@gmail.com" 
+  email            : "Nikohsu@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
