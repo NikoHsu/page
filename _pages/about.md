@@ -13,7 +13,7 @@ I'm currently a second-year graduate student pursuing my Master's degree at [Nor
 
 Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, badminton and swimming.
 
-<span style="color:red"><b>[Highlight]</b></span> I am currently seeking a research internship/RA position. If you have any leads or opportunities, please contact me via email at nikohsu@qq.com. Thank you!
+<span style="color:red"><b>[Highlight]</b></span> I am currently seeking a visiting student position. If you have any leads or opportunities, please contact me via email at nikohsu@qq.com. Thank you!
 
 Education
 ======
