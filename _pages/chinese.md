@@ -75,11 +75,11 @@ note: 部分项目无法公开图片，未作展示
 - 基于[JSBSIM飞行仿真器](https://jsbsim.sourceforge.net/)的动力学模型；
 - 实现多个无人机的自主智能决策。
 
-预印本
+论文
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-**First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
+**First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003). 2024
 
 <img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
