@@ -78,11 +78,11 @@ Addressing the challenge of dimension explosion in training and convergence diff
 - Implementing autonomous intelligent decision-making for multiple UAVs;
 
 
-Preprints
+Publications
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-**Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang. [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under **major revision**
+**Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang. [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003). 2024. 
 
 <img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
