@@ -69,7 +69,7 @@ redirect_from:
 ======
 - **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
 
-**First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), under major revision
+**First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), 已接收
 
 
 
