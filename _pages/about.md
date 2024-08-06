@@ -102,6 +102,11 @@ Open-source dataset URL: [https://github.com/NikoHsu/PSEF_Localization_dataset](
 
 (a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
+
+- **Unknown missile evasion via guidance law identification and model reference policy adaptation (MRPA) algorithm**
+
+Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Chengyang Tao, et al.  Chinese Journal of Aeronautics. Under review.
+
   
 Skills
 ======
