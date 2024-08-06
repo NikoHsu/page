@@ -82,6 +82,12 @@ redirect_from:
 
 
 
+**Unknown missile evasion via guidance law identification and model reference policy adaptation (MRPA) algorithm**
+
+Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Chengyang Tao, et al. Chinese Journal of Aeronautics. Under review.
+
+
+
 技能
 ======
 口语：英语（流利，CET4 562，CET6 514）、普通话（母语）、德语（基础，歌德A1）
