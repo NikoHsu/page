@@ -77,7 +77,7 @@ note: 部分项目无法公开图片，未作展示
 
 论文
 ======
-- **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game**
+- **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game** [[Paper]](https://ieeexplore.ieee.org/document/10621746/)
 
 **First author**, [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003). 2024
 
