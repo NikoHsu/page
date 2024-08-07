@@ -80,7 +80,7 @@ Addressing the challenge of dimension explosion in training and convergence diff
 
 Publications
 ======
-- **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game** [paper](https://ieeexplore.ieee.org/document/10621746/)
+- **Approximate Optimal Strategy for Multi-Agent System Pursuit-Evasion Game** [[Paper]](https://ieeexplore.ieee.org/document/10621746/)
 
 **Zhiqiang Xu**, Dengxiu Yu, Yan-jun Liu and Zhen Wang. [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003). 2024. 
 
