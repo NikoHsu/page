@@ -104,9 +104,13 @@ Open-source dataset URL: [https://github.com/NikoHsu/PSEF_Localization_dataset](
 (a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
 
 
-- **Unknown missile evasion via guidance law identification and model reference policy adaptation (MRPA) algorithm**
+- **Evade Unknown Pursuer via Pursuit Strategy Identification and Model Reference Policy Adaptation (MRPA) Algorithm** [[Paper]](https://www.mdpi.com/2504-446X/8/11/655)
 
-Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Chengyang Tao, et al.  Chinese Journal of Aeronautics. Under review.
+Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Lili Cheng, et al.  Drones. 2024.   
+
+
+- **Rethinking Soft Actor-Critic in High-Dimensional Action Spaces: The Cost of Ignoring Distribution Shift**
+Yanjun Chen, 	Xinming Zhang, Xianghui Wang,	**Zhiqiang Xu**, 	Xiaoyu Shen, 	Wei Zhang. IEEE Transactions onNeural Networks and Learning Systems. Under Review.
 
   
 Skills
