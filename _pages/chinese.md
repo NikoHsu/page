@@ -83,14 +83,14 @@ note: 部分项目无法公开图片，未作展示
 
 <img src="/page/images/PA_PE-game.png" alt="mpe" width="400" height="150">
 
-针对目前多智能体系统追逃博弈过程中，单组智能体内部缺少团队凝聚力的难题，我们提出了一种用于非线性多智能体系统追逐逃避（MPE）博弈的近似最优控制策略，通过图论方法、动态目标图算法以及Hamilton-Jacobi-Isaacs (HJI) 方程的求解策略，有效增加了智能体集群的团队协作，并通过仿真和对比实验验证了算法的有效性。
+We proposes an approximate optimal control strategy for nonlinear Multi-Agent System Pursuit-Evasion (MPE) games, enhancing team coordination through a graph-theoretic approach, dynamic target graph algorithm, and solving strategies using Hamilton-Jacobi-Isaacs (HJI) equations, with validation through simulations.
 
 
 - **PSEF: Point Cloud and Semantic-Based ESKF Fusion System for Precise Underground Parking Enviroment Localization**
 
 **First author**, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), Under Review.
 
-地下停车环境带来了诸多挑战，如无GPS信号、照明不佳和复杂环境干扰，导致传感器定位不精确和不稳定。为了解决这些问题，我们提出了一种基于双层地图匹配和融合的PSEF系统。我们构建了基于激光雷达里程计的点云地图和基于相机数据和语义分割的语义地图，并首次引入了基于ESKF的点云和语义信息的融合，在仿真系统中实现了较高精度的定位。
+Underground parking environments pose challenges such as GNSS denied, poor lighting and complex interference, resulting in degraded and unstable sensor localization. To address these issues,  We propose a novel system, named PSEF, which is based on dual-layer map matching and fusion. We construct a point cloud map based on LiDAR odometry and a semantic map based on camera data and semantic segmentation. For the first time, we introduce the fusion of point cloud and semantic information based on ESKF.
 
 开源数据集网址: [https://github.com/NikoHsu/PSEF_Localization_dataset](https://github.com/NikoHsu/PSEF_Localization_dataset).
 
@@ -98,7 +98,16 @@ note: 部分项目无法公开图片，未作展示
 
 <img src="/page/images/slam2.jpg" alt="slam2" width="333" height="200">
 
-（a）当前帧的BEV图像。（b）车辆前视图。（c）双层地图融合图解。
+(a)Current frame’s BEV image. (b) The front view of the vehicle. (c) Illustration of dual-Layer map fusion.
+
+
+- **Evade Unknown Pursuer via Pursuit Strategy Identification and Model Reference Policy Adaptation (MRPA) Algorithm** [[Paper]](https://www.mdpi.com/2504-446X/8/11/655)
+
+Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Lili Cheng, et al.  Drones. 2024.   
+
+
+- **Rethinking Soft Actor-Critic in High-Dimensional Action Spaces: The Cost of Ignoring Distribution Shift**
+Yanjun Chen, 	Xinming Zhang, Xianghui Wang,	**Zhiqiang Xu**, 	Xiaoyu Shen, 	Wei Zhang. IEEE Transactions onNeural Networks and Learning Systems. Under Review.
 
 
 技能
