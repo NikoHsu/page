@@ -110,6 +110,7 @@ Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Lili Cheng, et al.  Drones. 2024.
 
 
 - **Rethinking Soft Actor-Critic in High-Dimensional Action Spaces: The Cost of Ignoring Distribution Shift**
+
 Yanjun Chen, 	Xinming Zhang, Xianghui Wang,	**Zhiqiang Xu**, 	Xiaoyu Shen, 	Wei Zhang. IEEE Transactions onNeural Networks and Learning Systems. Under Review.
 
   
