@@ -19,9 +19,11 @@ Education
 ======
 09/2022 ~ 04/2025: M.S.  in Artificial Intelligence, [Northwestern Polytechnical University (985)](https://www.nwpu.edu.cn/), Xian.
 
+- GPA: 3.87  (Ranked top 10% in the program)
+
 09/2017 ~ 06/2022: B.Sc. in Automation, [GuangXi University (211)](https://www.gxu.edu.cn/), Nanning.
 
-- GPA: 3.32  (Rank 5st / 132 in the major)
+- GPA: 3.32  (Ranked top 4% in the program)
 
 
 07/2018 ~ 08/2018: Summer School, [University of California,  Los Angeles (UCLA)](https://www.ucla.edu/), Los Angeles.
