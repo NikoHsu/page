@@ -111,6 +111,11 @@ Open-source dataset URL: [https://github.com/NikoHsu/PSEF_Localization_dataset](
 Zitao Su, Shuang Zheng, **Zhiqiang Xu**, Lili Cheng, et al.  Drones. 2024.   
 
 
+- **Adaptive Missile Avoidance Algorithm for UAV Based on Multi-Head Attention Mechanism and Dual Population Confrontation Game** [[Paper]](https://www.mdpi.com/2504-446X/9/5/382)
+
+Cheng Zhang, Junhao Song, Chengyang Tao, Zitao su, **Zhiqiang Xu**, Weijia Feng, Zhaoxiang Zhang and Yuelei Xu. Drones. 2025.   
+
+
 - **Rethinking Soft Actor-Critic in High-Dimensional Action Spaces: The Cost of Ignoring Distribution Shift**
 
 Yanjun Chen, 	Xinming Zhang, Xianghui Wang,	**Zhiqiang Xu**, 	Xiaoyu Shen, 	Wei Zhang. IEEE Transactions onNeural Networks and Learning Systems. Under Review.
